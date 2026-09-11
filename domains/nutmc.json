@@ -1,5 +1,5 @@
 {
-    "domain": ".sbs",
+    "domain": "creepers.sbs",
     "subdomain": "play.nutmc",
     "owner": {
         "repo": "https://github.com/creepersbs/register",
