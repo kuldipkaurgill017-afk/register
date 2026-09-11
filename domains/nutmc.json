@@ -1,0 +1,11 @@
+{
+    "domain": ".sbs",
+    "subdomain": "play.nutmc",
+    "owner": {
+        "repo": "https://github.com/creepersbs/register",
+        "email": "kuldipkaurgill017@gmail.com"
+    },
+    "record": {
+        "A": ["152.67.12.34"]
+    }
+}
